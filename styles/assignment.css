@@ -1,0 +1,223 @@
+.font{
+    color: rgb(13, 19, 33);
+font-family:"Azeret Mono", monospace;
+font-size: 28px;
+font-weight: 800;
+line-height: 33px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+
+.btn-2{
+   color: rgb(13, 19, 33);
+    font-family:"Azeret Mono", monospace;;
+    font-size: 20px;
+    font-weight: 600px;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 20px ;
+    
+border: 1px solid rgb(13, 19, 33);
+border-radius: 8px;
+
+opacity: 0.8;
+
+
+}
+
+.font-2{
+    
+    
+    
+    
+    
+}
+.header{
+    
+    
+
+
+
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    
+    
+}
+.container{
+    max-width: 1500px;
+    margin: auto;
+    padding: 10px;
+}
+.banner{
+    background-image: url(../assets/Hero-bg.png);
+    /* Hero-bg */
+    
+   min-height: 650px
+   
+}
+.banner-2{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    color: rgb(255, 255, 255);
+    background-color: rgb(13, 19, 33);
+    padding: 15px;
+    height: auto;
+    width: auto;
+    border-radius: 8px;
+    
+
+    
+    /* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+}
+.para{
+    font-family: monospace;
+    /* "In the near future, I hope to become a Developer." */
+    position: static;
+width: 998px;
+height: 136px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+font-weight: bolder;
+font-size: 48px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 24px 0px;
+font-size: 48px;
+font-weight: 800;
+line-height: 68px;
+text-align: center;
+}
+main{
+    max-width: 1200px;
+    margin: auto;
+}
+.development{
+    text-align: center;
+    border-radius: 16px;
+    padding: 80px 97px 80px 97px;
+background: rgba(13, 19, 33, 0.02);
+margin-top: 50px;
+}
+.division-1{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 48px;
+}
+.division-2{
+    text-align: left;
+}
+.btn-3{
+    
+    padding: 10px 15px;
+    border-radius: 5px;
+    
+}
+.dhead{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono ;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+.dhead-1{
+    color: rgba(13, 19, 33, 0.7);
+
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.inspire{
+    text-align: center;
+    margin-top: 80px;
+}
+.inspire-1{
+    max-width: 850px;
+    margin: auto;
+}
+.inspire-2{
+    color: rgb(13, 19, 33);
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 37px;
+    font-family: "Azeret Mono";
+
+
+} 
+
+.vdo{
+   
+    margin-top: 50px;
+    width: 1200px;
+    height: 500px;
+    
+}
+.current{
+    max-width: 850px;
+    text-align: center;
+    padding-top:  100px;
+    margin: auto;
+}
+.target{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+}
+.target-1{
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    max-width: 350px;
+    
+}
+.target-2{
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    max-width: 350px;
+  
+}
+.target-3{
+   background-color: rgba(255, 223, 0, 0.05);
+   padding: 40px;
+   max-width: 350px;
+   
+}
+.learn{
+    text-decoration: underline;
+}
+.current-2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}

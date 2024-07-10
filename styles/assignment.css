@@ -221,3 +221,15 @@ line-height: 37px;
 letter-spacing: 0%;
 text-align: center;
 }
+.foot{
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    margin-top: 60px;
+}
+.images{
+    display: flex;
+   
+    gap: 20px;
+}
